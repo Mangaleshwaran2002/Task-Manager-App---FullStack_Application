@@ -1,0 +1,23 @@
+# Ignore node_modules (we install fresh ones inside Docker)
+node_modules
+
+# Ignore build output (we build inside Docker)
+dist
+
+# Ignore logs
+*.log
+
+# Ignore environment files (handled by Docker Compose or secrets)
+.env
+.env.*
+
+# Ignore OS or editor-specific files
+.DS_Store
+*.swp
+*.swo
+*.tmp
+
+# Ignore test files (if any)
+__tests__/
+*.spec.ts
+*.test.ts
