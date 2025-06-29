@@ -1,11 +1,3 @@
-### **Project Title:**
-
-**Task Manager App - Full Stack Application (React, Node.js, Express, Prisma, PostgreSQL, Docker)**
-
----
-
-### **README.md**
-
 # Task Manager App
 
 A simple and efficient task management application that allows users to track their tasks. Developed as a full-stack application using **React**, **Node.js**, **Express**, **Prisma**, and **PostgreSQL**. Dockerized for easy deployment and testing.
